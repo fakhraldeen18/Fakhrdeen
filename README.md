@@ -6,7 +6,7 @@ A full stack deveploer in KSA 🇸🇦
 + 🤖 About me: I'm a full-stack developer and designer. I aspire to create visually stunning, easy-to-use, fully functional websites that meet customer needs 💪💪.
 
  ### 📫 Reach me out on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fakhrdeenalfallatah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhrdeenalfallatah/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:fakhraldeen18@gmail.com)
 
 ### 🛠️ Technology Stack:
