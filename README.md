@@ -41,8 +41,4 @@ A full stack deveploer in KSA 🇸🇦
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fakhraldeen18&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fakhraldeen18" alt="GitHub Streak" /></a>
-</p>
-
 <hr>
